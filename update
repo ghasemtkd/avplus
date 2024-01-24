@@ -2,7 +2,7 @@
   {
     "name": "بروزرسانی!",
     "text": "نسخه جدید منتشر شد برای دریافت کلیک کنید.",
-    "update": false,
+    "update": true,
     "link": "https://rubika.ir/pythonasan",
     "mode": true
   }
